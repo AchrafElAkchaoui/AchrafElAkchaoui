@@ -5,5 +5,5 @@
 1. Second test
 3. Third test
 
-#### Testing header 4 where i put a link to my linkedin
+#### Testing header 4 where I put a link to my linkedin
 [Linkedin](https://www.linkedin.com/in/achrafelak/)
